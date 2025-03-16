@@ -1,0 +1,6 @@
+streamlit
+requests
+deep-translator
+diffusers
+torch
+transformers
